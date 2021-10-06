@@ -8,7 +8,7 @@ int main(int argc, char *argv[]) {
 	int count=0;
 	float speed,DesireSpeed;
 	PID_init();
-	DesireSpeed = 200;
+	DesireSpeed = 230;
 
 	
     while(count<1000)
